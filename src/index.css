@@ -97,14 +97,14 @@ button{
 }
 .cam{
   width: 30vh;
-  height: 4vh;
+  height: 3vh;
 }
 #cam-line{
   margin-left: 4vh;
   width: 13.2vh;
 }
 #bottom{
-  height: 5vh;
+  height: 4vh;
   width: 100%;
 }
 input{
@@ -112,6 +112,6 @@ input{
 }
 #bottom-btn{
   border: 3px solid whitesmoke;
-  height: 5vh;
+  height: 4vh;
 }
 }
